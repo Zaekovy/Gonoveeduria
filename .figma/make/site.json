@@ -1,1 +1,7 @@
-{}
+{
+  "title": "Gonoveeduría — Bogotá vigila",
+  "description": "Reporta problemas con recursos, servicios y entidades de la ciudad. Investigamos, hacemos seguimiento y exigimos respuestas.",
+  "language": "es",
+  "robots": { "index": true },
+  "icons": { "icon": "./favicon.png" }
+}
